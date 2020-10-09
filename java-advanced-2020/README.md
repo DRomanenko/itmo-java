@@ -1,6 +1,6 @@
 # Тесты к курсу «Технологии Java»
 
-[Условия домашних заданий](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
+[Страница курса](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
 
 
 ## Домашнее задание 10. HelloUDP
