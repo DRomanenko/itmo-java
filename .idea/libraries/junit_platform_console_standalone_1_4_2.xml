@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-platform-console-standalone-1.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-advanced-2020-solutions/lib/console-lib/junit-platform-console-standalone-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
