@@ -1,4 +1,4 @@
-## Resolved:
+## Solved:
 0. [Tests](java-advanced-2020/README.md)
 1. [Множество на массиве](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/arrayset/)
 2. [Студенты](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/student/)
@@ -11,7 +11,7 @@
 9. [HelloUDP](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/hello/)
 10. [HelloNonblockingUDP](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/hello/)
 
-## Unresolved:
+## Unsolved:
 1. [Обход файлов](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/walk/)
 2. [Физические лица](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/bank/)
 3. [Статистика текста](/java-advanced-2020-solutions/java-solutions/ru/ifmo/rain/romanenko/hello/i18n)
